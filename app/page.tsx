@@ -7,7 +7,6 @@ import {
   ExternalLink,
   Github,
   Linkedin,
-  Mail,
   Palette,
   Rocket
 } from 'lucide-react';
